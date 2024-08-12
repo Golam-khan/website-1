@@ -1,0 +1,30 @@
+.box{
+    height: 350px;
+    width: 350px;
+    background-color: grey;
+}
+
+.navbar{
+    height: 60px;
+    background-color:;
+}
+
+.space{
+    height: 50px;
+}
+
+.img-size{
+    height: 60px;
+    width: 120px;
+}
+
+.border{
+border: 10px  solid  green;
+
+
+}
+
+.img-size2{
+    height: 350px;
+    width: 350px;
+}
